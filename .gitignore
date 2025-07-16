@@ -1,0 +1,20 @@
+/envjarvis
+contacts.csv
+jarvis.db
+/engine/__pycache__
+/engine/cookies.json
+commands.json
+
+# 🔒 Safe Ignore Rules
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.db
+*.pkl
+*.env
+.vscode/
+.idea/
+*.zip
+*.tar.gz
+*.egg-info/
